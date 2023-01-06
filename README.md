@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.dribbble.com/users/669537/screenshots/4803291/api_developers-1.gif)](https://www.youtube.com/@stacksolutions7056/videos)
-- 💬 Ask me about **Click banner to visit my Youtube channel**
+
 <h1 align="center">Hi 👋, I'm Phestus Kitsao</h1>
 <h3 align="center">A passionate Software developer & Geospatial Analyst from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810"></img>
